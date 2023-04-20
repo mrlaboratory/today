@@ -24,6 +24,18 @@
         "IDR": [14032.27, "Indonesian rupiah", "ইন্দোনেশিয়ান রুপিয়াহ"]
 
     },
+    "goldPrice" : {
+        "22karat" : 8440,
+        "21karat" : 8055,
+        "18karat" : 6905,
+        "traditional" : 5755
+    },
+    "silverPrice" : {
+        "22karat" : 147,
+        "21karat" : 140,
+        "18karat" : 120,
+        "traditional" : 90
+    },
     "description" : {
         "BDT": "বাংলাদেশি টাকা "
     }

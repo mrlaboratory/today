@@ -22,7 +22,7 @@ function conBN(number) {
     return result;
 }
 
-fetch("currency_rates.json")
+fetch("rates.json")
 .then((response) => response.json())
 .then((data) => {
   const tableBody = document.querySelector("#ratesTable tbody");
