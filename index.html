@@ -5,6 +5,7 @@
     <title>Currency Rates</title>
   </head>
   <body>
+    <h2>Currency Rates Base USD</h2>
     <table id="ratesTable">
       <thead>
         <tr>
@@ -16,25 +17,6 @@
       <tbody></tbody>
     </table>
 
-    <script>
-      fetch("currency_rates.json")
-        .then((response) => response.json())
-        .then((data) => {
-          const tableBody = document.querySelector("#ratesTable tbody");
-
-          for (const [currency, [rate, name, nameBn]] of Object.entries(
-            data.rates
-          )) {
-            const row = document.createElement("tr");
-            row.innerHTML = `
-              <td>${currency}</td>
-              <td>${rate}</td>
-              <td>${name} (${nameBn})</td>
-            `;
-            tableBody.appendChild(row);
-          }
-        })
-        .catch((error) => console.error(error));
-    </script>
+ <script src="index.js"></script>
   </body>
 </html>
