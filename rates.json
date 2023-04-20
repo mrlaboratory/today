@@ -21,7 +21,11 @@
         "RUB": [81.70, "Russian ruble", "রাশিয়ান রুবি"],
         "TRY": [19.40, "Turkish lira", "তুরস্ক লিরা"],
         "KWD": [0.30, "Kuwaiti dinar", "কুয়েত দিনার"],
-        "IDR": [14032.27, "Indonesian rupiah", "ইন্দোনেশিয়ান রুপিয়াহ"]
+        "IDR": [14032.27, "Indonesian rupiah", "ইন্দোনেশিয়ান রুপিয়াহ"],
+        "USD" : [1.00, "United States Dollar", "মার্কিন ডলার"],
+        "GBP" : [0.72, "British Pound Sterling", "ব্রিটিশ পাউন্ড"],
+        "CHF" : [0.91, "Swiss Franc", "সুইস ফ্রাঙ্ক"],
+        "NZD" : [1.38, "New Zealand Dollar", "নিউজিল্যান্ড ডলার"]
 
     },
     "goldPrice" : {
