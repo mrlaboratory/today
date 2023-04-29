@@ -22,10 +22,21 @@
         "TRY": [19.40, "Turkish lira", "তুরস্ক লিরা"],
         "KWD": [0.30, "Kuwaiti dinar", "কুয়েত দিনার"],
         "IDR": [14032.27, "Indonesian rupiah", "ইন্দোনেশিয়ান রুপিয়াহ"],
-        "USD" : [1.00, "United States Dollar", "মার্কিন ডলার"],
+        "USD" : [1.00, "United States Dollar", "মার্কিন আমেরিকান ডলার"],
         "GBP" : [0.72, "British Pound Sterling", "ব্রিটিশ পাউন্ড"],
         "CHF" : [0.91, "Swiss Franc", "সুইস ফ্রাঙ্ক"],
-        "NZD" : [1.38, "New Zealand Dollar", "নিউজিল্যান্ড ডলার"]
+        "NZD" : [1.38, "New Zealand Dollar", "নিউজিল্যান্ড ডলার"],
+        "AFN" : [85.19, "Afghan afghani", "আফগানিস্তান মুদ্রা"],
+        "PKR" : [279.97, "Pakistani Rupee", "পাকিস্তানী রুপি"],
+        "BTN" : [80.73, "Bhutanese Ngultrum", "ভুটানি এনগুলট্রাম"],
+        "IQD" : [1292.75, "Iraqi Dinar", "ইরাকি দিনার"],
+        "BND" : [1.32, "Brunei Dollar", "ব্রুনাই ডলার"],
+        "MVR" : [15.36, "Maldivian Rufiyaa", "মালদ্বীপের রুফিয়া"],
+        "THB" : [34.15, "Thai Baht", "থাই বাত"],
+        "VND" : [23465.00, "Vietnamese dong", "ভিয়েতনামী ডং"],
+        "TJS" : [10.78, "Tajikistani Somoni", "তাজিকিসায়া সোমনি"],
+        "YER" : [250.35, "Yemeni Rial", "ইয়েমেনি রিয়াল"]
+
 
     },
     "goldPrice" : {
